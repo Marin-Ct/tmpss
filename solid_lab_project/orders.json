@@ -1,0 +1,19 @@
+{
+  "1": {
+    "customer": "Ion Popescu",
+    "items": [
+      {
+        "name": "Keyboard",
+        "price": 450.0,
+        "quantity": 1
+      },
+      {
+        "name": "USB cable",
+        "price": 35.0,
+        "quantity": 4
+      }
+    ],
+    "total": 590.0,
+    "final_price": 472.0
+  }
+}
